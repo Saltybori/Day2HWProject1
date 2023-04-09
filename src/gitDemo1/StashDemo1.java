@@ -10,5 +10,11 @@ public class StashDemo1 {
 	}
 	
 	
+	public void add() {
+		System.out.println(2 + 2);
+	}
+	
+	
+	
 
 }
